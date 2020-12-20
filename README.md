@@ -1,4 +1,3 @@
-# Seu Barriga
 API de controle financeiro com Node, Express e Postgres.
 
 O projeto é resultado do curso [API REST em Node.JS aplicando testes (TDD) desde o princípio](https://www.udemy.com/course/api-rest-nodejs-com-testes/).
